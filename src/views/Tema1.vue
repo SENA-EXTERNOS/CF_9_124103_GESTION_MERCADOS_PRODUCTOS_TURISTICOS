@@ -215,7 +215,7 @@
                 .anexo__icono
                   img(src="@/assets/curso/temas/tema1/icono-pdf.svg")
                 .anexo__texto
-                  b Anexo1.
+                  b Anexo 1.
                   p Condiciones y políticas de reserva 
 
 
