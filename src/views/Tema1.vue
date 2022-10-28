@@ -108,16 +108,16 @@
         .h5.mb-2 2. Aéreo
         p Como su nombre lo indica se refiere a todos los servicios de transporte que se den por líneas aéreas, ya sean aviones, avionetas, incluso aviones de carga. Es de resaltar que el servicio de transporte aéreo es uno de los más seguros a nivel mundial con el menor índice de accidentes anualmente.
 
-      div(x="63.4%" y="89%" tooltip="Náutico")
+      div(x="63.4%" y="94.5%" tooltip="Náutico")
         .h5.mb-2 3. Náutico
         p Esta modalidad está derivada al transporte acuático o marítimo, es decir, todo vehículo que se movilice a través del agua: lanchas, yates, barcos, buques, entre muchos otros. El sistema náutico es uno de los más costosos al momento de elección dada su elaboración y las rutas que maneja. Por lo general, para el turismo se emplean vehículos de alta gama que tienen entrada a destinos paradisíacos netamente turísticos.
       
-      div(x="79.4%" y="50%" tooltip="Ferrovial")
+      div(x="79.4%" y="52.5%" tooltip="Ferrovial")
         .h5.mb-2 1. Ferrovial
         p Es un sistema que no se emplea en muchos destinos, en especial en Latinoamérica, ya que es bastante costoso en el momento de su planeación y ejecución. Depende de un presupuesto elevado, pero es muy práctico para el servicio de transporte, en su mayoría consta de rieles o extensiones de energía que le dan conductividad a un remolque. 
         p En esta modalidad de transporte se identifican los trenes, tranvía, metro, entre otros y se categorizan los sistemas de transporte que son utilizados por el turismo y por las agencias prestadoras de servicios. En las formas de viaje también se incluyen servicios como alimentación, alojamiento, guianza e interpretación que se conjuntan a medida que el cliente o usuario lo solicite para suplir sus necesidades. El prestador de servicio o la agencia operadora se encuentra en la obligación de diseñar un portafolio de servicios turísticos donde presentará sus diferentes modalidades de viaje y sus diferentes modalidades de turismo.
 
-      div(x="20.5%" y="65%" tooltip="Terrestre")
+      div(x="20.5%" y="69%" tooltip="Terrestre")
         .h5.mb-2 4. Terrestre
         p Esta modalidad incluye los diferentes medios de transporte que se pueden abordar o brindar por tierra, un ejemplo de esto son: las caminatas, el ciclismo, cabalgata, motocicleta, bus, entre otros. Se puede indicar que estos servicios se brindan tanto desde empresas de transporte públicas como empresas privadas, ambas delimitan tarifas para los usuarios de estas.
 
