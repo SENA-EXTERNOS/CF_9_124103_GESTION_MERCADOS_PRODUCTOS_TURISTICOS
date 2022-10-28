@@ -169,7 +169,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '5.2',
-            titulo: '2 Componentes de destino turísticos',
+            titulo: 'Componentes de destino turísticos',
             hash: 't_5_2',
           },
           {
