@@ -24,15 +24,15 @@
     .row.mt-5.justify-content-center
       .col-10
         .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5
-          .bloque-texto-g__img.testdisenio2(
+          .bloque-texto-g__img.carimg(
             :style="{'background-image': `url(${require('@/assets/curso/temas/tema4/g2.svg')})`}"
           )
           
-          .bloque-texto-g__texto.p-4.testdisenio
+          .bloque-texto-g__texto2.p-4
             p Los servicios turísticos se caracterizan dependiendo de la necesidad que tenga el visitante, dependiendo de la segmentación de mercado turístico se generan los servicios que se describen en el documento:
             br
-            .row.justify-content-center
-              .col-lg-6
+            .row-auto 
+              .col-lg-8
                 a.anexo(:href="obtenerLink('downloads/Anexo_3.pdf')" target="_blank")
                   .anexo__icono
                     img(src="@/assets/curso/temas/tema1/icono-pdf.svg")

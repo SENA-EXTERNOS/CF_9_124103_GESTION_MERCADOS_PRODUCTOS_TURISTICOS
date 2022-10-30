@@ -25,11 +25,11 @@
     .row.mt-5.justify-content-center
       .col-10
         .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5
-          .bloque-texto-g__img.testdisenio2(
+          .bloque-texto-g__img.carimg(
             :style="{'background-image': `url(${require('@/assets/curso/temas/tema2/im1.svg')})`}"
           )
           
-          .bloque-texto-g__texto.p-4.testdisenio
+          .bloque-texto-g__texto2.p-4
             p Los sistemas de información han evolucionado a grandes niveles donde los motores de búsqueda se han convertido en fuentes tan complejas que demuestran gran practicidad en el momento en que se maneja, esto se debe al avance en el desarrollo digital que se ha venido incrementando en los últimos años, la mayoría de plataformas crean un algoritmo de búsqueda que tienen la capacidad de encontrar específicamente lo que se está buscando, esto brinda una gran exactitud en el momento que se investiga un destino. 
 
     br
@@ -69,10 +69,10 @@
     .row.mt-5.justify-content-center
       .col-10
         .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5
-          .bloque-texto-g__img.testdisenio2(
+          .bloque-texto-g__img.carimg(
             :style="{'background-image': `url(${require('@/assets/curso/temas/tema2/im2.svg')})`}"
           )          
-          .bloque-texto-g__texto.p-4.testdisenio
+          .bloque-texto-g__texto2.p-4
             p En la actualidad se manejan sistemas globales de reservas mediante software que utilizan por lo general las grandes empresas, estas cuentan con patentes o franquicias que cumplen con ciertos estándares de calidad a nivel global.
 
       br
@@ -279,7 +279,7 @@
 
     p Las técnicas de consulta empleadas por las personas en la actualidad se derivan a búsquedas digitales y electrónicas mediante páginas web o plataformas digitales anteriormente mencionadas, teniendo en cuenta lo que se desee buscar, generalmente hay diversas páginas de internet donde se pueden encontrar datos y referencias turísticas a nivel mundial.
 
-    .tarjeta.bgr-slider.color-secundario.p-4.mt-5
+    .tarjeta.bgr-slider.fondo-tarjeta.p-4.mt-5
       SlyderA(tipo="b")
         .row
           .col-md-7.mb-4.mb-md-0
@@ -310,18 +310,24 @@
             figure
               img(src='@/assets/curso/temas/tema2/tar3.png', alt='')
 
-        .row
-          .col-md-12.mb-4.mb-md-0
+        .row.justify-content-center
+          .col-md-10.mb-4.mb-md-0
             h4 Ejemplos de Código IATA.
-          .row.mt-5.justify-content-center
-            .col-md-10
-              figure
-                img(src='@/assets/curso/temas/tema2/tar4.png', alt='')
+            
+            .tarjeta.color-blanco.p-4
+              .row.justify-content-center
+                .col-md-10.mb-4.mb-md-0
+                  .row
+                    .col-md-6.p-2
+                      figure
+                        img(weight="200" height="200" src='@/assets/curso/temas/tema2/tar4-1.png', alt='')
+                    .col-md-6.p-2
+                      figure
+                        img(weight="200" height="200" src='@/assets/curso/temas/tema2/tar4-2.png', alt='')
 
+                  br
 
-
-
-
+                  p #[b Tabla 4:]  Ejemplo de códigos IATA
 
 </template>
 

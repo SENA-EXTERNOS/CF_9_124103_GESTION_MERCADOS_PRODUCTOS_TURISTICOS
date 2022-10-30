@@ -11,14 +11,14 @@
     .row.mt-5.justify-content-center
       .col-10
         .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5
-          .bloque-texto-g__img.testdisenio2(
+          .bloque-texto-g__img.carimg(
             :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/avion2.svg')})`}"
           )
           
-          .bloque-texto-g__texto.p-4.testdisenio
+          .bloque-texto-g__texto2.p-4
             p Cuando se habla de servicios de viaje, es indispensable reconocer que “servicio” es un conjunto de acciones u actividades que se desarrollan en pro a una persona o cosa, cuya finalidad es responder a una necesidad generada por un cliente o producto. Esta acción de servicio responde a un apuro o carencia específica. Ahora, cuando se habla de “viaje”, lo relacionamos con el desplazamiento de un lugar de origen o estadía a otro lugar predeterminado, el cual no necesariamente tiene que ser personas, también puede ser de animales, cosas o documentos.
 
-    .tarjeta.bgr-slider.color-secundario.p-4.mt-5
+    .tarjeta.bgr-slider.fondo-tarjeta.p-4.mt-5
       SlyderA(tipo="b")
         .row
           .col-md-7.mb-4.mb-md-0
@@ -82,7 +82,7 @@
         h2.text-center Tangibles
         p Son los productos y servicios que tienen características propias a simple vista, es decir, aquellos que se pueden ver y tocar. Cabe resaltar que la mayoría productos tangibles van acompañadas de una acción o servicio intangible, por ejemplo: la alimentación es un servicio intangible que puede ofrecer en una agencia de viajes o en un alojamiento como tal, pero el producto que nos provee para alimentar al visitante es la comida que se identifica como un producto tangible, el cual podemos ver, tocar, sentir y degustar.
 
-      .col-md.tarjeta.color-acento-botones.p-5
+      .col-md.tarjeta.tarjeta--naranja.p-5
         .row.justify-content-center.mb-4
           .col-6
             figure
@@ -93,7 +93,7 @@
 
     Separador 
 
-    #t_1_1.titulo-segundo.color-acento-contenido
+    #t_1_2.titulo-segundo.color-acento-contenido
       h2 1.2  Modalidades de viaje 
 
     p A continuación, se presenta infografía con la descripción de las modalidades de viaje en el ámbito del turismo.
@@ -123,7 +123,7 @@
 
     Separador 
 
-    #t_1_1.titulo-segundo.color-acento-contenido
+    #t_1_3.titulo-segundo.color-acento-contenido
       h2 1.3  Diseño de portafolio 
 
     p Para realizar el diseño de un portafolio de servicios turísticos es necesario distinguir la definición de portafolio como agrupación o conjunto de algo en específico, en este caso servicios turísticos.
@@ -131,17 +131,17 @@
     .row.mt-5.justify-content-center
       .col-10
         .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5
-          .bloque-texto-g__img.testdisenio2(
+          .bloque-texto-g__img.carimg(
             :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/maleta.svg')})`}"
           )
           
-          .bloque-texto-g__texto.p-4.testdisenio
+          .bloque-texto-g__texto2.p-4
             p El buen diseño de un portafolio está basado en el plan escrito en donde se describen los diferentes servicios que el prestador se encuentre realizando y las diferentes empresas con las que se tenga relación o contrato. Cuyo fin es demostrar el conjunto de servicios turísticos con los que se cuenta, así como llamar la atención de clientes potenciales, demostrando la calidad de sus proveedores. 
     
     br
     p Para el diseño de un portafolio de servicios turísticos se hace necesario generar un documento en el cual se especifique lo siguiente:
 
-    .tarjeta.tarjeta.color-secundario.p-4
+    .tarjeta.tarjeta.fondo-tarjeta.p-4
       PasosB.color-acento-botones
 
         .row(titulo="")
@@ -196,7 +196,7 @@
 
     Separador
 
-    #t_1_1.titulo-segundo.color-acento-contenido
+    #t_1_4.titulo-segundo.color-acento-contenido
       h2 1.4  Condiciones y políticas de reserva
 
     p Las condiciones y políticas de reserva son todos aquellos términos y parámetros que se tienen en cuenta a la hora de realizar una reserva, se trata de los pasos que se deben hacer en el momento de reservar, y son diferentes a todos los servicios que las incluyan. Cada prestador genera políticas más estrictas que otros.
@@ -208,7 +208,9 @@
           figure
             img(src='@/assets/curso/temas/tema1/g4.svg', alt='Texto que describa la imagen').img-tarjeta-linea-1
         .col-lg-10.col-sm-10
-          p Para ampliar información se invita a revisar el documento Anexo 1. Condiciones y políticas de reserva, allí se describen los aspectos a considerar para aplicar reservas dependiendo del tipo de servicio, como, por ejemplo. Alimentación, alojamiento, otros.
+          p Para ampliar información se invita a revisar el documento 
+            b Anexo 1. Condiciones y políticas de reserva, 
+            | allí se describen los aspectos a considerar para aplicar reservas dependiendo del tipo de servicio, como, por ejemplo. Alimentación, alojamiento, otros.
           
             .col-lg-6.col-sm-10
               a.anexo(:href="obtenerLink('downloads/Anexo_1.pdf')" target="_blank")

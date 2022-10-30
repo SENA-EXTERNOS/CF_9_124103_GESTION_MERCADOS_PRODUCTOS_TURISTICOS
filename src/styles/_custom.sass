@@ -2,7 +2,7 @@
   &-1
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 40%
+    top: 35%
     right: 33%
     width: 290px
 
@@ -15,15 +15,27 @@
     transform: translateY(0px)
 
 
+.fondo-tarjeta
+  background-image: url('../assets/curso/temas/panel-azul.png')
+  max-width: 100%;
+  height: auto;
+
+.fondo-tarjeta2
+  background-image: url('../assets/curso/temas/panel-azul2.png')
+  max-width: 100%;
+  height: auto;
+
 .dimesion
    @media (max-width: 500px)
     width: 2%
     margin-left: 25%
 
+.tarjeta.color-blanco
+  background-color: #fff
 
 .testdisenio
     right: 325px    
-    background-color: rgba(255, 255, 255, 0.95)
+    background-color: #fff
 
 .testdisenio2
   left: 508px
@@ -35,20 +47,34 @@
 .testdisenioiz2
   right: 508px
 
-.linea-tiempo-c__header__btn 
-  background-color: #feca2e
-  
-.linea-tiempo-c__header__btn--left
-  background-color: #feca2e
+.bloque-texto-b.color-acento-contenido:before 
+  background-color: #E9F8D0
+
+.bloque-gris
+  background-color: #E8E8E8
     
-.linea-tiempo-c__header__btn--right
-  background-color: #feca2e
-      
-.pasos-b__header__btn--left
-  background-color: #feca2e
-        
-.pasos-b__header__btn--right 
-  background-color: #feca2e
+.bloque-texto-g__texto2
+  right: 500px    
+  background-color: #fff
+  position: sticky
+  width: 75%
+  //text-align: center
+
+@media (max-width: 500px)
+  .bloque-texto-g__texto2
+    width: 100%
+
+.bloque-texto-g__texto
+  background-color: #fff
+
+.bloque-texto-g__img.carimg
+  left: 510px
+  
+@media (max-width: 500px)
+  
+  .bloque-texto-g__img.carimg 
+    left: 0px
+
 
 .lista-ol--cuadro__vineta 
   background-color: #fc4b52
@@ -67,7 +93,7 @@
   color: #FC4B52
 
 .tarjeta--naranja 
-  background-color: #FEE18C
+  background-color: #FFF7DE
 
 .acordion__accion__btn--a 
   background-color: #a7e446
@@ -82,7 +108,7 @@
   background-color: #E8E8E8
 
 .tarjeta--gris 
-  background-color: #dff7f9
+  background-color: #FFF7DE
 
 .tarjeta--container
 
@@ -95,3 +121,12 @@
 
 .tarjeta2
   background-color: #F2787D
+
+.bloque-texto-a.color-acento-contenido 
+  background-color: #E8E8E8
+
+.bloque-texto-a.color-secundario 
+  background-color: #FC4B52
+
+.bloque-texto-a.color-secundario:before 
+  background-color: #D9EAEA

@@ -34,11 +34,11 @@
     .row.mt-5.justify-content-center
       .col-10
         .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5
-          .bloque-texto-g__img.testdisenio2(
+          .bloque-texto-g__img.carimg(
             :style="{'background-image': `url(${require('@/assets/curso/temas/tema3/g3.svg')})`}"
           )
           
-          .bloque-texto-g__texto.p-4.testdisenio
+          .bloque-texto-g__texto2.p-4
             p En el momento en que se habla de las características principales de un producto turístico vale la pena resaltar que están ligadas a la percepción del turista o visitante. Adicionalmente, influye la actividad económica del lugar donde se realiza la visita, depende de los tipos de turismo que se pueden realizar allí, asimismo de las motivaciones que incitan al visitante desplazarse hacia un lugar y los segmentos de mercado que allí se manejan.
 
     br
@@ -70,7 +70,7 @@
       .col-md-6.col-lg.mb-5.mb-lg-0
         .tarjeta-avatar
           img(src='@/assets/curso/temas/tema3/tar1.svg' alt='')
-          .tarjeta.color-secundario
+          .tarjeta.fondo-tarjeta2
             .p-4
               h2.text-center Turismo litoral
               p También llamada turismo de sol y playa, se da en la zona costera con climas cálidos.
@@ -78,7 +78,7 @@
       .col-md-6.col-lg.mb-5.mb-lg-0
         .tarjeta-avatar
           img(src='@/assets/curso/temas/tema3/tar2.svg' alt='')
-          .tarjeta.color-secundario
+          .tarjeta.fondo-tarjeta2
             .p-4
               h2.text-center Turismo de negocios
               p Se refiere a los viajes con fines corporativos o laborales.
@@ -86,7 +86,7 @@
       .col-md-6.col-lg.mb-5.mb-lg-0
         .tarjeta-avatar
           img(src='@/assets/curso/temas/tema3/tar3.svg' alt='')
-          .tarjeta.color-secundario
+          .tarjeta.fondo-tarjeta2
             .p-4
               h2.text-center Turismo de naturaleza
               p Se refiere a los viajes con fines de realizar actividades turísticas con contacto directo con la naturaleza.
@@ -94,7 +94,7 @@
       .col-md-6.col-lg.mb-5.mb-lg-0
         .tarjeta-avatar
           img(src='@/assets/curso/temas/tema3/tar4.svg' alt='')
-          .tarjeta.color-secundario
+          .tarjeta.fondo-tarjeta2
             .p-4
               h2.text-center Turismo de salud
               p Se refiere a los viajes con fines de recibir servicios de salud en regiones diferentes a la que reside.

@@ -3,8 +3,8 @@ export default {
     componenteFormativo: 'Tipos de productos turísticos',
     descripcionCurso:
       'Muestra tipos de producto turísticos mediante recolección de información de interés, teniendo en cuenta los servicios turísticos prestados, para la perfilación del viajero considerando protocolos de servicio y técnicas de clasificación y comunicación para la gestión turística.',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
-    fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal1.svg'),
+    fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal1.png'),
     imagenesDecorativasBanner: [
       {
         clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],

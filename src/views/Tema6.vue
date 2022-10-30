@@ -77,7 +77,7 @@
     #t_6_2.titulo-segundo.color-acento-contenido
       h2 6.2  Características del patrimonio cultural
 
-    .bloque-texto-a.color-primario.p-4.p-md-5.mb-5 
+    .bloque-texto-a.color-secundario.p-4.p-md-5.mb-5 
       .row.m-0.align-items-center.justify-content-between
         .col-lg-12
           .bloque-texto-a__texto.p-4
@@ -110,7 +110,7 @@
 
     .row.mt-5.justify-content-center
       .col-10
-        .bloque-texto-a.color-primario.p-4.p-md-5.mb-5 
+        .bloque-texto-a.color-secundario.p-4.p-md-5.mb-5 
             .row.m-0.align-items-center.justify-content-between
               .col-lg-12
                 .bloque-texto-a__texto.p-4

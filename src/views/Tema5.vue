@@ -59,10 +59,10 @@
     .row.mt-5.justify-content-center
       .col-10
         .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5
-          .bloque-texto-g__img.testdisenio2(
+          .bloque-texto-g__img.carimg(
             :style="{'background-image': `url(${require('@/assets/curso/temas/tema5/g3.svg')})`}"
           )
-          .bloque-texto-g__texto.p-4.testdisenio
+          .bloque-texto-g__texto2.p-4
             p Cuando se habla de atractivos turísticos es primordial tener en cuenta los elementos que lo componen, estos se encuentran conformados por: recursos naturales, recursos culturales y actividades turísticas, teniendo un orden de conformación como es el caso de las actividades turísticas, que se puede desarrollar dentro del entorno natural y cultural.
 
     br
@@ -92,10 +92,10 @@
     .row.mt-5.justify-content-center
       .col-10
         .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5
-          .bloque-texto-g__img.testdisenio2(
+          .bloque-texto-g__img.carimg(
             :style="{'background-image': `url(${require('@/assets/curso/temas/tema5/g4.svg')})`}"
           )
-          .bloque-texto-g__texto.p-4.testdisenio
+          .bloque-texto-g__texto2.p-4
             p Al momento en que se perfila una persona para realizar un viaje se hace necesario tener en cuenta la motivación circunstancial que se tiene, esto le permite al planificador turístico realizar cierta perfilación frente al cliente, a su vez lo clasifica identificando sus gustos, costumbres y preferencias. 
 
     br

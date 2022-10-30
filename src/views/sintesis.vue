@@ -11,17 +11,18 @@
 
         .col-lg-2
           figure
-          img(src="@/assets/curso/temas/ssena.svg" width='70' height='70')
+          img(src="@/assets/curso/temas/ssena.svg" width='89,61' height='86,7')
 
     .row.justify-content-center
       .col-lg-10.mb-5
         br
-        p Revise la siguiente síntesis, la cual resumen la temática abordada en el componente “Tipos de productos turísticos”.
+        p.mt-4 Revise la siguiente síntesis, la cual resumen la temática abordada en el componente “Tipos de productos turísticos”.
 
     .row.justify-content-center
       .col-lg-10.mb-5
         figure
           img(src="@/assets/curso/temas/sintesis.svg", alt="alt")
+
 
 </template>
 
