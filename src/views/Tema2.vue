@@ -12,7 +12,7 @@
         p La tecnología que emplean en el turismo para la información y la comunicación o (TIC) como generalmente se le llama, cada  vez muestra avances y adecuaciones en los diferentes desarrolladores de turismo, con el pasar del tiempo el turismo se ha vuelto una fuente principal de empleo para la economía del país, región o lugar donde se encuentre, a medida que el turismo empieza crecer en pasos agigantados se generan necesidades correspondientes la demanda turística y la oportunidad fabricar tecnología e infraestructura que suplan tal necesidad.
         
         .cajon.color-acento-contenido.p-4.mb-4
-          p En la actualidad todas las empresas relacionadas con el turismo desarrollan como mínimo un software de reservas o de información turística, también son empleadas para diseñar o manejar publicidad comercial para beneficio propio, incrementando las ventas gracias a la promoción masiva que se da con estas herramientas informáticas.
+          p En la actualidad todas las empresas relacionadas con el turismo desarrollan como mínimo un #[i software] de reservas o de información turística, también son empleadas para diseñar o manejar publicidad comercial para beneficio propio, incrementando las ventas gracias a la promoción masiva que se da con estas herramientas informáticas.
       .col-lg-4
         figure
           img(src='@/assets/curso/temas/tema2/g1.png', alt='') 
@@ -59,7 +59,7 @@
                 img(width="180px" height="180px" src='@/assets/curso/temas/tema2/g2.svg', alt='') 
             .col-lg-8
               .bloque-texto-a__texto.p-4
-                p Las plataformas en el sector del turismo como en cualquier otro sector son herramientas digitales creadas para mostrar portafolios de servicios o bases de datos, en donde las personas pueden buscar y encontrar lo que necesitan en un solo lugar. Estas deben de tener una oferta publicitaria para producir confianza al cliente, por lo general se encuentran en páginas web y deben incluir aplicativos móviles de manera estratégica generando más facilidad y preferencia en el momento de realizar una visita en la plataforma.
+                p Las plataformas en el sector del turismo como en cualquier otro sector son herramientas digitales creadas para mostrar portafolios de servicios o bases de datos, en donde las personas pueden buscar y encontrar lo que necesitan en un solo lugar. Estas deben de tener una oferta publicitaria para producir confianza al cliente, por lo general se encuentran en páginas #[i web] y deben incluir aplicativos móviles de manera estratégica generando más facilidad y preferencia en el momento de realizar una visita en la plataforma.
 
     Separador
 
@@ -73,7 +73,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/temas/tema2/im2.svg')})`}"
           )          
           .bloque-texto-g__texto2.p-4
-            p En la actualidad se manejan sistemas globales de reservas mediante software que utilizan por lo general las grandes empresas, estas cuentan con patentes o franquicias que cumplen con ciertos estándares de calidad a nivel global.
+            p En la actualidad se manejan sistemas globales de reservas mediante #[i software] que utilizan por lo general las grandes empresas, estas cuentan con patentes o franquicias que cumplen con ciertos estándares de calidad a nivel global.
 
       br
     .row.mt-5.justify-content-center
@@ -170,7 +170,7 @@
             ul.lista-ul
               li 
                 i.fas.fa-check
-                | Sistema global de reserva KIU Systems
+                | Sistema global de reserva TCA Inssist
 
       .py-3.py-md-4(titulo="SiteMinder")
         .row          
@@ -222,7 +222,7 @@
             p Definir un glosario donde se indique los conceptos con los que se trabajara en el manual, conceptos turísticos claves para la captación del tema.
 
           div(titulo="Contenido del manual")
-            p Generar contenido que se realizará en la actividad turística, este contenido debería incluir el paso a paso a seguir que se desarrollará durante la actividad, es decir, que deberá pasar durante el desarrollo de la actividad y cómo culminará la actividad misma. 
+            p Generar contenido que se realizará en la actividad turística, este contenido debería incluir el paso a paso a seguir que se desarrollará durante la actividad, es decir, que deberá pasar durante el desarrollo de la actividad y cómo culminará la actividad turística. 
 
             | Es válido diseñar una tabla dinámica donde se caracterice los procesos y los procedimientos en un orden cronológico así.
 
@@ -277,7 +277,7 @@
     #t_2_5.titulo-segundo.color-acento-contenido
       h2 2.5  Técnicas de consulta 
 
-    p Las técnicas de consulta empleadas por las personas en la actualidad se derivan a búsquedas digitales y electrónicas mediante páginas web o plataformas digitales anteriormente mencionadas, teniendo en cuenta lo que se desee buscar, generalmente hay diversas páginas de internet donde se pueden encontrar datos y referencias turísticas a nivel mundial.
+    p Las técnicas de consulta empleadas por las personas en la actualidad se derivan a búsquedas digitales y electrónicas mediante páginas #[i web] o plataformas digitales anteriormente mencionadas, teniendo en cuenta lo que se desee buscar, generalmente hay diversas páginas de internet donde se pueden encontrar datos y referencias turísticas a nivel mundial.
 
     .tarjeta.bgr-slider.fondo-tarjeta.p-4.mt-5
       SlyderA(tipo="b")
@@ -327,7 +327,7 @@
 
                   br
 
-                  p #[b Tabla 4:]  Ejemplo de códigos IATA
+                  p #[b Tabla 4:]  #[i Ejemplo de códigos IATA]
 
 </template>
 

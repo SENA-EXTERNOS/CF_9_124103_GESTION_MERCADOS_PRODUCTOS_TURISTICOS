@@ -56,7 +56,7 @@
 
     br
     
-    b  Estructura de la calidad del servicio
+    b  #[i Estructura de la calidad del servicio]
 
     .row.mt-5.justify-content-center
       .col-5

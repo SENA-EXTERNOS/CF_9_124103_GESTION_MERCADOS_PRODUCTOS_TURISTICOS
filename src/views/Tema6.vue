@@ -19,7 +19,8 @@
         .bloque-texto-b.color-acento-contenido.p-4
           .bloque-texto-b__texto
             i.fas.fa-quote-left
-            p De acuerdo con la UNESCO en la l Convención de la UNESCO (1972), “el Patrimonio Cultural se compone de aquello que a lo largo de la historia han creado los hombres de una nación y que, en el momento presente, seguimos creando los que vivimos en la actualidad” (Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura [UNESCO], 1972) el patrimonio cultural es uno de los ejes fundamentales del turismo ya que de este se desliga un legado de tradición. Tiene como valor la conservación de tradiciones, costumbres, gastronomía y conocimientos arquitectónicos de un lugar o una región en específico, con el fin de proteger y salvaguardar la riqueza cultural de cada uno de los destinos. 
+            p De acuerdo con la UNESCO en la l Convención de la UNESCO (1972), #[i “el Patrimonio Cultural se compone de aquello que a lo largo de la historia han creado los hombres de una nación y que, en el momento presente, seguimos creando los que vivimos en la actualidad”]
+              |  (Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura [#[b UNESCO]], 1972) el patrimonio cultural es uno de los ejes fundamentales del turismo ya que de este se desliga un legado de tradición. Tiene como valor la conservación de tradiciones, costumbres, gastronomía y conocimientos arquitectónicos de un lugar o una región en específico, con el fin de proteger y salvaguardar la riqueza cultural de cada uno de los destinos. 
             i.fas.fa-quote-right
 
       .col-lg-5
@@ -100,7 +101,7 @@
         .bloque-texto-b.color-acento-contenido.p-4
           .bloque-texto-b__texto
             i.fas.fa-quote-left
-            p Según la Unesco en la convención de 1972 indica que “el patrimonio cultural no se limita a monumentos y colecciones de objetos. Comprende también expresiones vivas heredadas de nuestros antepasados, como tradiciones orales, artes del espectáculo, usos sociales, rituales, actos festivos, conocimientos y prácticas relativos a la naturaleza y el universo y saberes y técnicas vinculados a la artesanía tradicional” (UNESCO,1972).
+            p Según la Unesco en la convención de 1972 indica que #[i “el patrimonio cultural no se limita a monumentos y colecciones de objetos. Comprende también expresiones vivas heredadas de nuestros antepasados, como tradiciones orales, artes del espectáculo, usos sociales, rituales, actos festivos, conocimientos y prácticas relativos a la naturaleza y el universo y saberes y técnicas vinculados a la artesanía tradicional”] (UNESCO,1972).
             i.fas.fa-quote-right
 
     Separador

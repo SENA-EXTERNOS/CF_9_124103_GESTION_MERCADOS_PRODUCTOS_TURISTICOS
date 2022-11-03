@@ -273,7 +273,7 @@ export default {
       referencia:
         'Fundación para la Conservación y el Desarrollo Sostenible (2021) Manual de operación turística para el avistamiento de aves      https://fcds.org.co/wp-content/uploads/2021/02/manual-operacion-turismo.pdf',
       tipo: 'Manual',
-      descarga:
+      link:
         'https://fcds.org.co/wp-content/uploads/2021/02/manual-operacion-turismo.pdf',
     },
     {
@@ -281,7 +281,7 @@ export default {
       referencia:
         'Humberto Rivas, Académico de la Universidad San Sebastián (diciembre 2016) Elementos para la gestión de Destinos Turísticos https://www.sernatur.cl/wp-content/uploads/2018/11/Manual-de-Destinos-Elementos-para-la-gestio%CC%81n-de-destinos-turisticos-1.pdf',
       tipo: 'Manual',
-      descarga:
+      link:
         'https://www.sernatur.cl/wp-content/uploads/2018/11/Manual-de-Destinos-Elementos-para-la-gestio%CC%81n-de-destinos-turisticos-1.pdf',
     },
     {
@@ -289,10 +289,15 @@ export default {
       referencia:
         'Olariaga, O. D., & Carvajal, A. F. (2016). Efectos de la liberalización en la geografía del transporte aéreo en Colombia. Cuadernos geográficos de la Universidad de Granada https://dialnet.unirioja.es/servlet/articulo?codigo=5767230',
       tipo: 'Artículo',
-      descarga: 'https://dialnet.unirioja.es/servlet/articulo?codigo=5767230',
+      link: 'https://dialnet.unirioja.es/servlet/articulo?codigo=5767230',
     },
   ],
   glosario: [
+    {
+      termino: 'Accesibilidad',
+      significado:
+        'Posibilidad que tiene una persona de ingresar a un lugar o de adquirir ciertas cosas.',
+    },
     {
       termino: 'Atractivo ',
       significado:
@@ -307,6 +312,26 @@ export default {
       termino: 'Geografía',
       significado:
         'Conjunto de atributos que puede llegar a tener cosa o un recurso.',
+    },
+    {
+      termino: 'Mercadeo',
+      significado:
+        'Es el conjunto de acción y operaciones que se tienen en cuenta para la venta de un producto o servicio.',
+    },
+    {
+      termino: 'Modalidad',
+      significado:
+        'Características o forma diferenciadora de realizar una acción o cosa.',
+    },
+    {
+      termino: 'Producto',
+      significado:
+        'Conjunto de atributos que puede llegar a tener cosa o un recurso.',
+    },
+    {
+      termino: 'Tarifas',
+      significado:
+        'Son los valores y precios fijados de un producto o servicio.',
     },
     {
       termino: 'Tecnología',

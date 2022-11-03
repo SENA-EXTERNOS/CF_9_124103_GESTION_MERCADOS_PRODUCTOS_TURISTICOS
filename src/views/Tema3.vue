@@ -19,7 +19,7 @@
 
     br
 
-    b Ejemplos de particularidades turísticas de Colombia
+    b #[i Ejemplos de particularidades turísticas de Colombia]
 
     .row.mt-5.justify-content-center
       .col-lg-8
@@ -53,7 +53,7 @@
     Separador
 
     #t_3_2.titulo-segundo.color-acento-contenido
-      h2 3.2.  Tipo de productos 
+      h2 3.2  Tipo de productos 
 
     .row
       .col-lg-2
@@ -142,7 +142,7 @@
 
           .row(numero="6" titulo="Atractivo")
             .col-md-8.mb-4.mb-md-0
-              p.text-small Definir las dinámicas que se realizarán en el atractivo.
+              p.text-small Definir las dinámicas que se realizarán en los recursos.
 
           .row(numero="7" titulo="Equipamiento")
             .col-md-8.mb-4.mb-md-0
