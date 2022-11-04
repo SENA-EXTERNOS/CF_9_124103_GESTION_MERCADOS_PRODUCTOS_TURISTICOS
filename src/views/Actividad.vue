@@ -13,7 +13,7 @@
             img(src="@/assets/template/lapiz.svg", alt="Texto que describa la imagen")
       .col-12.col-md-8.col-lg-9
         
-        p.mb-4  La siguiente es una prueba de autoevaluación sobre conocimientos adquiridos a partir de la revisión del componente formativo sobre productos turísticos. 
+        p.mb-4 La siguiente es una prueba de autoevaluación sobre conocimientos adquiridos a partir de la revisión del componente formativo sobre productos turísticos. 
 
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
