@@ -9,18 +9,14 @@
 
     .row 
       .col-lg-7
-        b Concepto de la UNESCO sobre patrimonio cultural 
-        
-        br
-        br
-        
-        b Patrimonio cultural 
-
         .bloque-texto-b.color-acento-contenido.p-4
           .bloque-texto-b__texto
             i.fas.fa-quote-left
-            p De acuerdo con la UNESCO en la l Convención de la UNESCO (1972), #[i “el Patrimonio Cultural se compone de aquello que a lo largo de la historia han creado los hombres de una nación y que, en el momento presente, seguimos creando los que vivimos en la actualidad”]
-              |  (Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura [#[b UNESCO]], 1972) el patrimonio cultural es uno de los ejes fundamentales del turismo ya que de este se desliga un legado de tradición. Tiene como valor la conservación de tradiciones, costumbres, gastronomía y conocimientos arquitectónicos de un lugar o una región en específico, con el fin de proteger y salvaguardar la riqueza cultural de cada uno de los destinos. 
+            p De acuerdo con la UNESCO en la Convención de UNESCO (1972), #[i “el Patrimonio Cultural se compone de aquello que a lo largo de la historia han creado los hombres de una nación y que, en el momento presente, seguimos creando los que vivimos en la actualidad”]. (Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura [UNESCO], 1972)
+            br
+            br
+            p El patrimonio cultural es uno de los ejes fundamentales del turismo ya que de este se desliga un legado de tradición. Tiene como valor la conservación de tradiciones, costumbres, gastronomía y conocimientos arquitectónicos de un lugar o una región en específico, con el fin de proteger y salvaguardar la riqueza cultural de cada uno de los destinos. 
+ 
             i.fas.fa-quote-right
 
       .col-lg-5
@@ -51,18 +47,15 @@
 
     Separador
 
-    #t_6_1.titulo-segundo.color-acento-contenido
-      h2 6.1  Técnicas de interpretación del patrimonio
+    .titulo-tercero.my-5
+      h3 Técnicas de interpretación del patrimonio
 
     .row.mt-5.justify-content-center
       .col-10
         .cajon.color-acento-botones.p-4.mb-4
-          p Los recursos culturales son la base del patrimonio cultural es allí donde se reconocen los diferentes bienes que pueden ser valorados y utilizados para la actividad turística, teniendo en cuenta la interpretación que se le pueda llegar a generar al bien cultural. Cuando se habla de interpretar se hace alusión al arte de explicar, definir o caracterizar el patrimonio para que pueda ser captado o comprendido por un espectador.
+          p Los recursos culturales son la base del patrimonio cultural, es allí donde se reconocen los diferentes bienes que pueden ser valorados y utilizados para la actividad turística, teniendo en cuenta la interpretación que pueda generar el bien cultural. Cuando se habla de interpretar se hace alusión al arte de explicar, definir o caracterizar el patrimonio, para que pueda ser captado o comprendido por un espectador.
+          p Para ampliar información sobre esta temática revise el anexo 5. técnicas de interpretación del patrimonio. 
 
-          | Para ampliar información sobre esta temática revise el anexo 5. técnicas de interpretación del patrimonio. 
-
-          br
-          br
           .row
             .col-lg-8
               a.anexo(:href="obtenerLink('downloads/Anexo_5.pdf')" target="_blank")
@@ -75,28 +68,27 @@
 
     Separador
 
-    #t_6_2.titulo-segundo.color-acento-contenido
-      h2 6.2  Características del patrimonio cultural
+    .titulo-tercero.my-5
+      h3 Características del patrimonio cultural
 
     .bloque-texto-a.color-secundario.p-4.p-md-5.mb-5 
       .row.m-0.align-items-center.justify-content-between
         .col-lg-12
           .bloque-texto-a__texto.p-4
-            p Al momento de denominar un bien cultural como patrimonio cultural es necesario tener en cuenta que no todos los bienes de interés cultural pueden llegar a ser patrimonio cultural cuya denominación siempre es generada por un conjunto de características impuestos por cada país o territorio. En Colombia se entiende por patrimonio cultural de la nación todos aquellos bienes y manifestaciones que son reconocidas e identificadas por diferentes medios institucionales y gubernamentales que mediante un proceso documental en donde evidencie los valores y la identidad cultural pueden llegar a denominarse patrimonio cultural.
+            p Al momento de denominar un bien como patrimonio cultural, es necesario tener en cuenta que no todos los bienes de interés cultural pueden llegar a ser patrimonio cultural, esta denominación siempre es generada por un conjunto de características impuestos por cada país o territorio. En Colombia se entiende por patrimonio cultural de la nación, todos aquellos bienes y manifestaciones que son reconocidas e identificadas por diferentes medios institucionales y gubernamentales que, mediante un proceso documental en donde evidencie los valores y la identidad cultural, pueden llegar a denominarse patrimonio cultural.
 
     Separador
 
-    #t_6_3.titulo-segundo.color-acento-contenido
-      h2 6.3 Historia
+    .titulo-tercero.my-5
+      h3 Historia
 
     .row 
       .col-lg-5
         figure
           img(src='@/assets/curso/temas/tema6/g3.png', alt='') 
       .col-lg-7
-        p A continuación, se detalla el pronunciamiento de la Unesco más ampliamente sobre patrimonio cultural. 
-        
-        | En la actualidad el término patrimonio cultural ha tenido gran aceptación a nivel mundial, ya que la mayoría personas no conocedoras del término los relaciona con la identidad e historia de cierto territorio, en los últimos se puede decir que esta denominación ha evolucionado, debidos a que la antigüedad solo se les daba tal reconocimiento a piezas artísticas de gran valor históricos y económico.
+        p En la actualidad el término patrimonio cultural ha tenido gran aceptación a nivel mundial, ya que la mayoría de personas no conocedoras del término lo relacionan con la identidad e historia de cierto territorio. En los últimos años se puede decir que esta denominación ha evolucionado, debido a que en la antigüedad solo se le daba tal reconocimiento a piezas artísticas de gran valor históricos y económico.
+        p A continuación, se detalla el pronunciamiento de la Unesco más ampliamente sobre patrimonio cultural:      
 
         .bloque-texto-b.color-acento-contenido.p-4
           .bloque-texto-b__texto
@@ -106,8 +98,8 @@
 
     Separador
 
-    #t_6_4.titulo-segundo.color-acento-contenido
-      h2 6.4  Tipos de territorio
+    .titulo-tercero.my-5
+      h3 Tipos de territorio
 
     .row.mt-5.justify-content-center
       .col-10

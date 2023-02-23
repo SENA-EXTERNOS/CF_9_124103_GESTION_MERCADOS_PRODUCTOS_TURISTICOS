@@ -12,24 +12,23 @@
         .cajon.color-acento-contenido.p-4.mb-4
           p Sabiendo que los productos turísticos son el conjunto de atractivos turísticos, servicios y actividades turísticos, se puede desarrollar un énfasis según el destino en el que se vaya a trabajar, en donde es importante destacar que cada uno de estos ítems conforman un producto de manera tangible e intangible, que se pueden evidenciar según las características del atractivo. 
 
-        p  Cada destino agrupa diferentes elementos y particularidades que llaman la atención del turista a la hora de realizar la visita a un lugar, las particulares de un lugar pueden ser tradiciones culturales, arquitectura histórica, gastronomía, entre otros.
+        p Cada destino agrupa diferentes elementos y particularidades que llaman la atención del turista a la hora de realizar la visita a un lugar. Las particularidades de un lugar pueden ser tradiciones culturales, arquitectura histórica, gastronomía, entre otros.
       .col-lg-7
         figure
           img(src='@/assets/curso/temas/tema3/g1.png', alt='')
 
-    br
-
-    b #[i Ejemplos de particularidades turísticas de Colombia]
+    .row.my-5
+      b Ejemplos de particularidades turísticas de Colombia
 
     .row.mt-5.justify-content-center
-      .col-lg-8
+      .col-lg-10
         figure
             img(src='@/assets/curso/temas/tema3/g2.png', alt='')
 
     Separador
 
-    #t_3_1.titulo-segundo.color-acento-contenido
-      h2 3.1  Características
+    .titulo-tercero.my-5
+      h3 Características
 
     .row.mt-5.justify-content-center
       .col-10
@@ -41,9 +40,8 @@
           .bloque-texto-g__texto2.p-4
             p En el momento en que se habla de las características principales de un producto turístico vale la pena resaltar que están ligadas a la percepción del turista o visitante. Adicionalmente, influye la actividad económica del lugar donde se realiza la visita, depende de los tipos de turismo que se pueden realizar allí, asimismo de las motivaciones que incitan al visitante desplazarse hacia un lugar y los segmentos de mercado que allí se manejan.
 
-    br
-
-    p Según su tangibilidad, las características de un producto turístico son: 
+    .row.my-5
+      p Según su tangibilidad, las características de un producto turístico son: 
 
     .row.mt-5.justify-content-center
       .col-lg-8
@@ -52,19 +50,17 @@
 
     Separador
 
-    #t_3_2.titulo-segundo.color-acento-contenido
-      h2 3.2  Tipo de productos 
+    .titulo-tercero.my-5
+      h3 Tipo de productos 
 
-    .row
+    .row.my-5
       .col-lg-2
         figure
           img(src='@/assets/curso/temas/tema3/paisaje.svg', alt='')
       .col-lg-10
         p Los tipos de productos turísticos se encuentran totalmente ligados a las actividades económicas del destino donde se ubican, los cuales enfatizan sus cualidades principales demostrando su identidad cultural, sus bienes patrimoniales y naturales, simplificándolos en las tipologías de turismo que existen.
+        p Teniendo en cuenta las diferentes tipologías de turismo se pueden generar los productos turísticos, según el destino y la necesidad del visitante. Estos se pueden personalizar dependiendo de las actividades y servicios, como se ve a continuación:
 
-        |Teniendo en cuenta las diferentes tipologías de turismo se puede generar productos turísticos, según el destino y la necesidad del visitante. Estos se pueden personalizar dependiendo las actividades y servicios.
-
-    br
 
     .row.mb-5
       .col-md-6.col-lg.mb-5.mb-lg-0
@@ -101,8 +97,8 @@
 
     Separador
 
-    #t_3_3.titulo-segundo.color-acento-contenido
-      h2 3.3  Componentes 
+    .titulo-tercero.my-5
+      h3 Componentes 
 
     .row.mt-5.justify-content-center
       .col-10
@@ -162,8 +158,8 @@
 
     Separador
 
-    #t_3_4.titulo-segundo.color-acento-contenido
-      h2 3.4  Productos turísticos según destino (nacional e internacional) 
+    .titulo-tercero.my-5
+      h3 Productos turísticos según destino (nacional e internacional) 
 
     .row.mt-5.justify-content-center
       .col-lg-2
@@ -173,13 +169,8 @@
         p El destino es un componente fundamental de los productos turísticos, en el cual se establecen características diferenciadoras que dependen del lugar donde se ejecute. Estas características dependen de un entorno cultural el cual va ligado a costumbres, tradiciones e identidad, generando puntos de interés a nivel nacional o internacional.
 
         .cajon.color-acento-contenido.p-4.mb-4
-          p Dentro de los productos turísticos por destino se pueden encontrar dos clases de turistas:
+          p Dentro de los productos turísticos por destino se pueden encontrar dos clases de turistas: el turista nacional y el turista internacional.
 
-    .row.mt-5.justify-content-center
-      .col-lg-10
-        b Productos turísticos según destino (nacional e internacional)
-        
-        br
     
     .row.mt-5.justify-content-center
       .col-lg-8

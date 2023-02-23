@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Tipos de productos turísticos',
     descripcionCurso:
-      'Muestra tipos de producto turísticos mediante recolección de información de interés, teniendo en cuenta los servicios turísticos prestados, para la perfilación del viajero considerando protocolos de servicio y técnicas de clasificación y comunicación para la gestión turística.',
+      'Por medio de la recolección de datos sobre la información de interés, se obtienen los tipos de producto turísticos, teniendo en cuenta los servicios turísticos que se pueden prestar; de esa manera se crea la perfilación del viajero y se van considerando los protocolos de servicio y técnicas de clasificación y comunicación adecuadas para la gestión turística.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal1.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal1.png'),
     imagenesDecorativasBanner: [
@@ -31,32 +31,6 @@ export default {
         numero: '1',
         titulo: 'Servicios de viaje',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.1',
-            titulo: 'Características',
-            hash: 't_1_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.2',
-            titulo: 'Modalidades de viaje',
-            hash: 't_1_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.3',
-            titulo: 'Diseño de portafolio',
-            hash: 't_1_3',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.4',
-            titulo: 'Condiciones y políticas de reserva',
-            hash: 't_1_4',
-          },
-        ],
       },
 
       {
@@ -65,38 +39,6 @@ export default {
         numero: '2',
         titulo: 'Tecnologías de la información y la comunicación',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.1',
-            titulo: 'Motores de búsqueda',
-            hash: 't_2_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.2',
-            titulo: 'Plataformas',
-            hash: 't_2_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.3',
-            titulo: 'Sistemas globales de reserva',
-            hash: 't_2_3',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.4',
-            titulo: 'Desarrollo de manuales de operación',
-            hash: 't_2_4',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.5',
-            titulo: 'Técnicas de consulta',
-            hash: 't_2_5',
-          },
-        ],
       },
       {
         nombreRuta: 'tema3',
@@ -104,33 +46,6 @@ export default {
         numero: '3',
         titulo: 'Producto turístico según destino',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.1',
-            titulo: 'Características',
-            hash: 't_3_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.2',
-            titulo: 'Tipo de productos',
-            hash: 't_3_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.3',
-            titulo: 'Componentes',
-            hash: 't_3_3',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.4',
-            titulo:
-              'Productos turísticos según destino (nacional e internacional)',
-            hash: 't_3_4',
-          },
-        ],
       },
       {
         nombreRuta: 'tema4',
@@ -138,20 +53,6 @@ export default {
         numero: '4',
         titulo: 'Servicios turísticos',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '4.1',
-            titulo: 'Caracterización de servicios turísticos',
-            hash: 't_4_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '4.2',
-            titulo: 'Calidad del servicio',
-            hash: 't_4_2',
-          },
-        ],
       },
       {
         nombreRuta: 'tema5',
@@ -159,32 +60,6 @@ export default {
         numero: '5',
         titulo: 'Geografía turística',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '5.1',
-            titulo: 'Ubicación de destinos turísticos',
-            hash: 't_5_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '5.2',
-            titulo: 'Componentes de destino turísticos',
-            hash: 't_5_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '5.3',
-            titulo: 'Atractivos turísticos',
-            hash: 't_5_3',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '5.4',
-            titulo: 'Perfil del viajero',
-            hash: 't_5_4',
-          },
-        ],
       },
       {
         nombreRuta: 'tema6',
@@ -192,32 +67,6 @@ export default {
         numero: '6',
         titulo: 'Patrimonio cultural',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '6.1',
-            titulo: 'Técnicas de interpretación del patrimonio',
-            hash: 't_6_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '6.2',
-            titulo: 'Características',
-            hash: 't_6_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '6.3',
-            titulo: 'Historia',
-            hash: 't_6_3',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '6.4',
-            titulo: 'Tipos de territorio',
-            hash: 't_6_4',
-          },
-        ],
       },
     ],
     subMenu: [
@@ -346,20 +195,20 @@ export default {
   ],
   referencias: [
     {
-      referencia: 'UNESCO. Patrimonio cultural.',
-      link: 'https://es.unesco.org/fieldoffice/santiago/cultura/patrimonio',
-    },
-    {
       referencia:
-        'Fundación para la Conservación y el Desarrollo Sostenible (2021) Manual de operación turística para el avistamiento de aves',
+        'Fundación para la Conservación y el Desarrollo Sostenible (2021) <i>Manual de operación turística para el avistamiento de aves</i> [Archivo PDF]',
       link:
         'https://fcds.org.co/wp-content/uploads/2021/02/manual-operacion-turismo.pdf',
     },
     {
       referencia:
-        'Meza, E. C. J. (2016). Un enfoque a la importancia del turismo. Turismo y patrimonio, (10), 133-136',
+        'Meza, E. C. J. (2016). Un enfoque a la importancia del turismo. <i>Turismo y patrimonio,</i> (10), 133-136',
       link:
         'http://ojs.revistaturismoypatrimonio.com/index.php/typ/article/view/17/10',
+    },
+    {
+      referencia: 'UNESCO. <i>Patrimonio cultural.</i>',
+      link: 'https://es.unesco.org/fieldoffice/santiago/cultura/patrimonio',
     },
   ],
   creditos: {

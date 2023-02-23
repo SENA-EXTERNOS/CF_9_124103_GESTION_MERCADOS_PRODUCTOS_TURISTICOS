@@ -3,25 +3,19 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    .row.justify-content-center
-        .col-lg-8.sm-8
-          .titulo-sexto.color-acento-contenido
-            b Gestión de mercado de productos turísticos
-            p Síntesis: Tipos de productos turísticos
+    p(data-aos="fade-down").mb-5 Revise la siguiente síntesis, la cual resume la temática abordada en el componente “Tipos de productos turísticos”.
 
-        .col-lg-2
-          figure
-          img(src="@/assets/curso/temas/ssena.svg" width='89,61' height='86,7')
-
-    .row.justify-content-center
-      .col-lg-10.mb-5
-        br
-        p.mt-4 Revise la siguiente síntesis, la cual resumen la temática abordada en el componente “Tipos de productos turísticos”.
 
     .row.justify-content-center
       .col-lg-10.mb-5
         figure
           img(src="@/assets/curso/temas/sintesis.svg", alt="alt")
+      .col-auto
+        a.anexo.mb-4(:href="obtenerLink('/downloads/sintesis.pdf')" target="_blank")
+          .anexo__icono
+            img(src="@/assets/template/icono-pdf.svg")
+          .anexo__texto
+            p Anexo. Síntesis
 
 
 </template>

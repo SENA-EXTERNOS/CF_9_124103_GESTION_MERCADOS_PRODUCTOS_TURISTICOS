@@ -2,18 +2,20 @@
 .curso-main-container.pb-3
   BannerInterno(icono="fas fa-tasks" titulo="Actividad didáctica")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-    .titulo-segundo.color-acento-contenido
-      h2 Verdadero o falso 
+
     
     .row.mb-5.justify-content-center.align-items-center.align-items-lg-stretch
       .col-6.col-md-4.col-lg-3.mb-4.mb-md-0
         .tarjeta.h-100.d-flex.align-items-center.p-4
         
           figure
-            img(src="@/assets/template/lapiz.svg", alt="Texto que describa la imagen")
+            img(src="@/assets/template/falso-verdadero.svg", alt="Texto que describa la imagen")
       .col-12.col-md-8.col-lg-9
+
+        .titulo-segundo.color-acento-contenido
+          h2 Tipos de productos turísticos
         
-        p.mb-4 La siguiente es una prueba de autoevaluación sobre conocimientos adquiridos a partir de la revisión del componente formativo sobre productos turísticos. 
+        p.mb-4 Por medio de la siguiente actividad didáctica podrá verificar los conocimientos adquiridos a partir del componente formativo sobre productos turísticos. 
 
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            

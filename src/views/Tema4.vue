@@ -18,19 +18,18 @@
 
     Separador
 
-    #t_4_1.titulo-segundo.color-acento-contenido
-      h2 4.1  Caracterización de servicios turístico
+    .titulo-tercero.my-5
+      h3 Caracterización de servicios turístico
 
     .row.mt-5.justify-content-center
       .col-10
-        .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5
-          .bloque-texto-g__img.carimg(
+        .bloque-texto-g.color-primario.p-4
+          .bloque-texto-g1__img(
             :style="{'background-image': `url(${require('@/assets/curso/temas/tema4/g2.svg')})`}"
           )
           
-          .bloque-texto-g__texto2.p-4
-            p Los servicios turísticos se caracterizan dependiendo de la necesidad que tenga el visitante, dependiendo de la segmentación de mercado turístico se generan los servicios que se describen en el documento:
-            br
+          .bloque-texto-g1__texto.p-3
+            p Los servicios turísticos se caracterizan dependiendo de la necesidad del visitante; de acuerdo a la segmentación del mercado turístico, se generan los servicios de alojamiento, alimentación, transporte, servicio de guianza y servicio de organización de eventos, los cuales se desarrollan en el documento #[strong Anexo 3. Servicios turísticos,] que se encuentra a continuación.
             .row-auto 
               .col-lg-8
                 a.anexo(:href="obtenerLink('downloads/Anexo_3.pdf')" target="_blank")
@@ -43,20 +42,19 @@
 
     Separador
 
-    #t_4_2.titulo-segundo.color-acento-contenido
-      h2 4.2  Calidad del servicio
+    .titulo-tercero
+      h3 Calidad del servicio
 
-    .row 
+    .row.mb-5
       .col-lg-2
         figure
             img(weight="80" height="80" src='@/assets/curso/temas/tema4/g3.svg', alt='')
 
       .col-lg-10
-        p La calidad del servicio turístico siempre está relacionada con los aspectos tangibles e intangibles de los servicios de viaje, se tiene en cuenta desde la infraestructura de los lugares donde se presta el servicio hasta el servicio al cliente de estos, sin pasar por alto las tarifas establecidas que se brindan estos lugares. Se debe establecer una relación equilibrada que contenga los factores mencionados, obteniendo como resultado una alta calidad del servicio.
+        p La calidad del servicio turístico siempre está relacionada con los aspectos tangibles e intangibles de los servicios de viaje; para esto, se tiene en cuenta desde la infraestructura de los lugares donde se presta el servicio hasta el servicio al cliente de los mismos, sin pasar por alto las tarifas establecidas que se cobran en estos lugares. Se debe establecer una relación equilibrada que contenga los factores mencionados, obteniendo como resultado una alta calidad del servicio. La relación de los aspectos bases de la calidad del servicio, podría darse de la siguiente manera:
 
-    br
-    
-    b  #[i Estructura de la calidad del servicio]
+    .row.justify-content-center-my-5
+      b.text-center Estructura de la calidad del servicio
 
     .row.mt-5.justify-content-center
       .col-5
