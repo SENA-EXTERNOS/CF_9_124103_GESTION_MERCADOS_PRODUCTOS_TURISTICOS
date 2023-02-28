@@ -19,7 +19,7 @@
     Separador
 
     .titulo-tercero.my-5
-      h3 Caracterización de servicios turístico
+      h3 Caracterización de servicios turísticos
 
     .row.mt-5.justify-content-center
       .col-10
@@ -37,8 +37,7 @@
                     img(src="@/assets/curso/temas/tema1/icono-pdf.svg")
                   .anexo__texto
                     b Anexo 3.
-                    br
-                    p Servicios turísticos
+                    p #[b Servicios turísticos]
 
     Separador
 

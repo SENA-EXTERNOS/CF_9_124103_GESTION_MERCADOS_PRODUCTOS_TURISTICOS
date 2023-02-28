@@ -76,7 +76,7 @@
         figure
             img(src='@/assets/curso/temas/tema5/g5.svg', alt='')
       .col-lg-10
-        p Para ampliar información sobre los componentes turísticos, los atractivos turísticos y el perfil del viajero, los invitamos a revisar el documento:
+        p Para ampliar información sobre los componentes turísticos, los atractivos turísticos y el perfil del viajero, los invitamos a revisar el documento #[strong Anexo 4. componentes de los destinos turísticos.] 
 
         .row
           .col-lg-8
@@ -85,8 +85,7 @@
                 img(src="@/assets/curso/temas/tema1/icono-pdf.svg")
               .anexo__texto
                 b Anexo 4.
-                br
-                p Componentes de los destinos turísticos, sección perfil del viajero. 
+                p #[b Componentes de los destinos turísticos.]
 
 
 </template>

@@ -12,7 +12,7 @@
         .bloque-texto-b.color-acento-contenido.p-4
           .bloque-texto-b__texto
             i.fas.fa-quote-left
-            p De acuerdo con la UNESCO en la Convención de UNESCO (1972), #[i “el Patrimonio Cultural se compone de aquello que a lo largo de la historia han creado los hombres de una nación y que, en el momento presente, seguimos creando los que vivimos en la actualidad”]. (Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura [UNESCO], 1972)
+            p De acuerdo con la UNESCO en la Convención de UNESCO (1972), #[i “el Patrimonio Cultural se compone de aquello que a lo largo de la historia han creado los hombres de una nación y que, en el momento presente, seguimos creando los que vivimos en la actualidad”]. (Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura [<b>UNESCO</b>], 1972)
             br
             br
             p El patrimonio cultural es uno de los ejes fundamentales del turismo ya que de este se desliga un legado de tradición. Tiene como valor la conservación de tradiciones, costumbres, gastronomía y conocimientos arquitectónicos de un lugar o una región en específico, con el fin de proteger y salvaguardar la riqueza cultural de cada uno de los destinos. 
@@ -23,12 +23,11 @@
         figure
           img(src='@/assets/curso/temas/tema6/g1.png', alt='')
 
-    br
 
-    b El turismo tiene un valor importante dentro de la caracterización de patrimonio cultural ya que sirve como herramienta conservadora en los lugares donde se realicen actividades enfocadas al turismo cultural. 
 
-    br
-    br
+    p.my-5 El turismo tiene un valor importante dentro de la caracterización de patrimonio cultural ya que sirve como herramienta conservadora en los lugares donde se realicen actividades enfocadas al turismo cultural. 
+
+
         
     .row 
       .col-lg-4
@@ -54,7 +53,7 @@
       .col-10
         .cajon.color-acento-botones.p-4.mb-4
           p Los recursos culturales son la base del patrimonio cultural, es allí donde se reconocen los diferentes bienes que pueden ser valorados y utilizados para la actividad turística, teniendo en cuenta la interpretación que pueda generar el bien cultural. Cuando se habla de interpretar se hace alusión al arte de explicar, definir o caracterizar el patrimonio, para que pueda ser captado o comprendido por un espectador.
-          p Para ampliar información sobre esta temática revise el anexo 5. técnicas de interpretación del patrimonio. 
+          p Para ampliar información sobre esta temática revise el #[strong anexo 5. técnicas de interpretación del patrimonio.]
 
           .row
             .col-lg-8
@@ -63,8 +62,8 @@
                   img(src="@/assets/curso/temas/tema1/icono-pdf.svg")
                 .anexo__texto
                   b Anexo 5.
-                  br
-                  p Técnicas de interpretación del patrimonio.
+
+                  p #[b Técnicas de interpretación del patrimonio.]
 
     Separador
 
@@ -109,7 +108,7 @@
                 .bloque-texto-a__texto.p-4
                   p Los tipos de territorio dentro del entorno turístico se desarrollan dependiendo el tipo de turismo que se ejecute en el destino. Cada destino se centra o especializa en una categoría diferenciadora ya sea ambiental o cultural, de estas se desprenden la protección o salvaguarda de la misma categoría, donde se debe de tener en cuenta espacios destinados para el turismo y su relación socioeconómica con la población residente del lugar, esto permite que el destino turístico sea promovido y visitado nacional e internacionalmente. 
 
-                  b Para ampliar información sobre esta temática revise el anexo 5. Técnicas de interpretación del patrimonio, sección tipos de territorio.
+                  b Para ampliar información sobre esta temática revise el #[strong anexo 5. Técnicas de interpretación del patrimonio, sección tipos de territorio.]
 
                   br
                   br
@@ -120,8 +119,7 @@
                           img(src="@/assets/curso/temas/tema1/icono-pdf.svg")
                         .anexo__texto
                           b Anexo 5.
-                          br
-                          p Técnicas de interpretación del patrimonio, sección tipos de territorio.
+                          p #[b Técnicas de interpretación del patrimonio, sección tipos de territorio.]
                 
     .row.mt-5.justify-content-center
       .col-10

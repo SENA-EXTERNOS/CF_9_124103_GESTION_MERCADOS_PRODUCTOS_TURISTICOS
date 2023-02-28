@@ -33,7 +33,7 @@
             p Los sistemas de información han evolucionado a grandes niveles, entre estos, el uso de los motores de búsqueda se ha convertido en una fuente tan compleja que estos demuestran gran practicidad al momento de utilizarlos, esto se debe al avance en el desarrollo digital que se ha venido incrementando en los últimos años. La mayoría de plataformas crean un algoritmo de búsqueda el cual tiene la capacidad de encontrar, con mayor precisión, lo que se está buscando, esto brinda una gran exactitud en el momento que se investiga un destino.
 
     .row.my-5
-      p Para ampliar información se invita a revisar el documento Anexo 2. Tecnologías de la información y la comunicación, en este documento se presentan las ventajas del uso de las TIC en el turismo, los buscadores y meta buscadores más comunes, destacando sus ventajas y desventajas. 
+      p Para ampliar información se invita a revisar el documento #[strong Anexo 2. Tecnologías de la información y la comunicación], en este documento se presentan las ventajas del uso de las TIC en el turismo, los buscadores y meta buscadores más comunes, destacando sus ventajas y desventajas. 
 
     .row.justify-content-center
       .col-lg-6
@@ -42,7 +42,7 @@
             img(src="@/assets/curso/temas/tema1/icono-pdf.svg")
           .anexo__texto
             b Anexo 2.
-            p Tecnologías de la información y la comunicación
+            p #[b Tecnologías de la información y la comunicación]
 
     Separador
 

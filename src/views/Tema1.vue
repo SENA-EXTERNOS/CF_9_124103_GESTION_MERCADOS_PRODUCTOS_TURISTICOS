@@ -18,6 +18,9 @@
           .bloque-texto-g__texto2.p-4
             p Cuando se habla de servicios de viaje, es indispensable reconocer que “servicio” es un conjunto de acciones o actividades que se desarrollan en pro de una persona o cosa, cuya finalidad es responder a una necesidad generada por un cliente o producto. Esta acción de servicio responde a un apuro o carencia específica. Ahora, cuando se habla de “viaje”, lo relacionamos con el desplazamiento de un lugar de origen o estadía a otro lugar predeterminado, el cual no necesariamente tiene que ser de personas, también puede ser de animales, cosas o documentos. 
 
+    .row.my-5
+      p Observe a continuación algunas características que se tienen en cuenta a la hora de realizar un servicio de viajes:
+
     .tarjeta.bgr-slider.fondo-tarjeta.p-4.mt-5
       SlyderA(tipo="b")
         .row
@@ -63,7 +66,7 @@
     Separador 
 
     .titulo-tercero.my-5
-      h3 Características
+      h3 Características  de los productos turísticos
 
     p Tanto en los viajes como en el turismo, la mayoría de los productos y servicios se valoran de manera tangible e intangible, dependiendo de su complejidad y lo que pretendan brindar al visitante.
 
@@ -211,7 +214,7 @@
                   img(src="@/assets/curso/temas/tema1/icono-pdf.svg")
                 .anexo__texto
                   b Anexo 1.
-                  p Condiciones y políticas de reserva 
+                  p #[b Condiciones y políticas de reserva] 
 
 
 </template>

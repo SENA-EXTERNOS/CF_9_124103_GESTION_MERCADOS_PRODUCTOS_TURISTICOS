@@ -171,6 +171,7 @@
         .cajon.color-acento-contenido.p-4.mb-4
           p Dentro de los productos turísticos por destino se pueden encontrar dos clases de turistas: el turista nacional y el turista internacional.
 
+    p La definición para cada uno de estos turistas, es la siguiente:
     
     .row.mt-5.justify-content-center
       .col-lg-8
