@@ -132,7 +132,7 @@
                 i.fas.fa-check
                 | Sistema global de reserva Travelsky
 
-      .py-3.py-md-4(titulo="Travelsky")
+      .py-3.py-md-4(titulo="travel Port")
         .row          
           .col-md-6
             figure
@@ -224,7 +224,7 @@
             p Generar el contenido que se realizará en la actividad turística. Este contenido deberá incluir el paso a paso a seguir de lo que se desarrollará durante la actividad, es decir, qué pasará antes de la actividad y la preparación de la misma, qué debe pasar durante el desarrollo de la actividad y cómo culminará la actividad turística.
             | Es válido diseñar una tabla dinámica donde se caracterice los procesos y los procedimientos en un orden cronológico así.
 
-            .row.mb-5
+            .row.my-5
               .col-lg-4.mb-5
                 .tabla-c.color-secundario.mb-5 
                   table
@@ -232,8 +232,6 @@
                       th Actividades turísticas
                     tr
                       th Avistamiento de aves
-                    tr
-                      th Actividad número 2
               .col-lg-8.mb-5
                 .tabla-c.color-secundario.mb-5 
                     table
