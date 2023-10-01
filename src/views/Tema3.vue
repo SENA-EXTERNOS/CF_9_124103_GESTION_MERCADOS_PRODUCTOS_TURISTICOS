@@ -10,7 +10,7 @@
     .row 
       .col-lg-5
         .cajon.color-acento-contenido.p-4.mb-4
-          p Sabiendo que los productos turísticos son el conjunto de atractivos turísticos, servicios y actividades turísticos, se puede desarrollar un énfasis según el destino en el que se vaya a trabajar, en donde es importante destacar que cada uno de estos ítems conforman un producto de manera tangible e intangible, que se pueden evidenciar según las características del atractivo. 
+          p Sabiendo que los productos turísticos son el conjunto de atractivos turísticos, servicios y actividades turísticas, se puede desarrollar un énfasis según el destino en el que se vaya a trabajar, en donde es importante destacar que cada uno de estos ítems conforman un producto de manera tangible e intangible, que se pueden evidenciar según las características del atractivo. 
 
         p Cada destino agrupa diferentes elementos y particularidades que llaman la atención del turista a la hora de realizar la visita a un lugar. Las particularidades de un lugar pueden ser tradiciones culturales, arquitectura histórica, gastronomía, entre otros.
       .col-lg-7

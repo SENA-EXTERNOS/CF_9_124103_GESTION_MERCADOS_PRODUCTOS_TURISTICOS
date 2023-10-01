@@ -117,7 +117,7 @@
 
       div(x="20.5%" y="69%" tooltip="Terrestre")
         .h5.mb-2 Terrestre
-        p Esta modalidad incluye los diferentes medios de transporte que se pueden abordar o brindar por tierra, un ejemplo de esto son: las caminatas, el ciclismo, cabalgata, motocicleta, bus, entre otros. Se puede indicar que estos servicios se brindan tanto desde empresas de transporte públicas como empresas privadas, ambas delimitan tarifas para los usuarios de estas.
+        p Esta modalidad incluye los diferentes medios de transporte que se pueden abordar o brindar por tierra, un ejemplo de esto es: las caminatas, el ciclismo, cabalgata, motocicleta, bus, entre otros. Se puede indicar que estos servicios se brindan tanto desde empresas de transporte públicas como empresas privadas, ambas delimitan tarifas para los usuarios de estas.
 
     Separador 
 
@@ -144,50 +144,50 @@
       PasosB.color-acento-botones
 
         .row(titulo="")
-          .col-md-6.mb-4.mb-md-0
+          .col-md-6.mb-4.mb-md-0.p-lg-5
             h4 Identificación de la empresa
 
-            p Identificar el nombre de la empresa, su razón social y una presentación innovadora.
+            p.mt-lg-5 Identificar el nombre de la empresa, su razón social y una presentación innovadora.
         
           .col-md-6
             figure
               img(src='@/assets/curso/temas/tema1/paso1.svg', alt='').img-reducir-paso
 
         .row(titulo="")
-          .col-md-6.mb-4.mb-md-0
+          .col-md-6.mb-4.mb-md-0.p-5.p-lg-5
             h4 Ventajas y desventajas
 
-            p Definir las ventajas y desventajas de la empresa prestadora del servicio o la agencia operadora de viajes.
+            p.mt-lg-5 Definir las ventajas y desventajas de la empresa prestadora del servicio o la agencia operadora de viajes.
         
           .col-md-6
             figure
               img(src='@/assets/curso/temas/tema1/paso2.svg', alt='').img-reducir-paso
 
         .row(titulo="")
-          .col-md-6.mb-4.mb-md-0
+          .col-md-6.mb-4.mb-md-0.p-lg-5
             h4 Objetivos
 
-            p Definir los objetivos generales y específicos de la empresa.
+            p.mt-lg-5 Definir los objetivos generales y específicos de la empresa.
         
           .col-md-6
             figure
               img(src='@/assets/curso/temas/tema1/paso3.svg', alt='').img-reducir-paso
 
         .row(titulo="")
-          .col-md-6.mb-4.mb-md-0
+          .col-md-6.mb-4.mb-md-0.p-lg-5
             h4 Prestadores de servicios 
 
-            p Enlistar todos los servicios y prestadores de servicio ofrecidos por la empresa.
+            p.mt-lg-5 Enlistar todos los servicios y prestadores de servicio ofrecidos por la empresa.
         
           .col-md-6
             figure
               img(src='@/assets/curso/temas/tema1/paso4.svg', alt='').img-reducir-paso
 
         .row(titulo="")
-          .col-md-6.mb-4.mb-md-0
+          .col-md-6.mb-4.mb-md-0.p-lg-5
             h4 Portafolio
 
-            p Realizar portafolio publicitario de manera física o digital para posibles clientes.
+            p.mt-lg-5 Realizar portafolio publicitario de manera física o digital para posibles clientes.
         
           .col-md-6
             figure

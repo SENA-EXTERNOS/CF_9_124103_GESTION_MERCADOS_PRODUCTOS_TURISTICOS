@@ -9,7 +9,7 @@
 
     .row
       .col-lg-8
-        p La tecnología que se emplea para la información y la comunicación o TIC, como generalmente se le llama, muestra cada vez más avances y adecuaciones e n los diferentes campos para el desarrollo del turismo. Con el pasar del tiempo, el turismo se ha vuelto una fuente principal de empleo para la economía del país, región o lugar donde se encuentre; a medida que el turismo empieza a crecer, se generan necesidades correspondiendo a la demanda turística y se presenta la oportunidad de fabricar tecnología e infraestructura que suplan tales necesidades.
+        p La tecnología que se emplea para la información y la comunicación o TIC, como generalmente se le llama, muestra cada vez más avances y adecuaciones en los diferentes campos para el desarrollo del turismo. Con el pasar del tiempo, el turismo se ha vuelto una fuente principal de empleo para la economía del país, región o lugar donde se encuentre; a medida que el turismo empieza a crecer, se generan necesidades correspondiendo a la demanda turística y se presenta la oportunidad de fabricar tecnología e infraestructura que suplan tales necesidades.
         
         .cajon.color-acento-contenido.p-4.mb-4
           p En la actualidad todas las empresas relacionadas con el turismo desarrollan como mínimo un #[i software] de reservas o de información turística, también son empleadas para diseñar o manejar publicidad comercial para beneficio propio, incrementando las ventas gracias a la promoción masiva que se da con estas herramientas informáticas.
@@ -33,7 +33,7 @@
             p Los sistemas de información han evolucionado a grandes niveles, entre estos, el uso de los motores de búsqueda se ha convertido en una fuente tan compleja que estos demuestran gran practicidad al momento de utilizarlos, esto se debe al avance en el desarrollo digital que se ha venido incrementando en los últimos años. La mayoría de plataformas crean un algoritmo de búsqueda el cual tiene la capacidad de encontrar, con mayor precisión, lo que se está buscando, esto brinda una gran exactitud en el momento que se investiga un destino.
 
     .row.my-5
-      p Para ampliar información se invita a revisar el documento #[strong Anexo 2. Tecnologías de la información y la comunicación], en este documento se presentan las ventajas del uso de las TIC en el turismo, los buscadores y meta buscadores más comunes, destacando sus ventajas y desventajas. 
+      p Para ampliar información se invita a revisar el documento #[strong Anexo 2. Tecnologías de la información y la comunicación], en este documento se presentan las ventajas del uso de las TIC en el turismo, los buscadores y metabuscadores más comunes, destacando sus ventajas y desventajas. 
 
     .row.justify-content-center
       .col-lg-6
@@ -80,109 +80,109 @@
         p Los sistemas globales de reserva toman como base las plataformas digitales como herramienta a la hora de estandarizar productos o servicios, se puede decir que globalizan todos los sistemas de información turística y los imparten desde un sistema de distribución global, este puede generar una reserva desde cualquier parte del mundo desde un mismo aplicativo. Algunos de los sistemas globales de reserva más utilizados son:
 
     TabsC.color-acento-contenido
-      .py-3.py-md-4(titulo="Amadeus")
-        .row          
-          .col-md-6
+      .py-3.py-md-4(titulo="<i>Amadeus</i>")
+        .row.justify-content-center         
+          .col-md-4
             figure
               img(src='@/assets/curso/temas/tema2/pes1.svg', alt='')
-          .col-md-6.mb-4.mb-md-0
-            h4 Amadeus
+          .col-md-5.mb-4.mb-md-0
+            h4.mt-4 <i>Amadeus</i>
 
-            ul.lista-ul
-              li 
-                i.fas.fa-check
-                | Sistema global de reserva Amadeus
+            ul.lista-ul--color.mt-5
+              li
+                i.fas.fa-check(style="color:#fc4b52")
+                p Sistema global de reserva <i>Amadeus</i>
 
-      .py-3.py-md-4(titulo="Sabre Holdings")
-        .row          
-          .col-md-6
+      .py-3.py-md-4(titulo="<i>Sabre Holdings</i>")
+        .row.justify-content-center     
+          .col-md-4
             figure
               img(src='@/assets/curso/temas/tema2/pes2.svg', alt='')
-          .col-md-6.mb-4.mb-md-0
-            h4 Sabre Holdings
+          .col-md-5.mb-4.mb-md-0
+            h4.mt-4 <i>Sabre Holdings</i>
 
-            ul.lista-ul
+            ul.lista-ul.mt-5
               li 
-                i.fas.fa-check
-                | Sistema global de reserva Sabre Holdings
+                i.fas.fa-check(style="color:#fc4b52")
+                p Sistema global de reserva <i>Sabre Holdings</i>
 
-      .py-3.py-md-4(titulo="Abacus")
-        .row          
-          .col-md-6
+      .py-3.py-md-4(titulo="<i>Abacus</i>")
+        .row.justify-content-center          
+          .col-md-4
             figure
               img(src='@/assets/curso/temas/tema2/pes3.svg', alt='')
-          .col-md-6.mb-4.mb-md-0
-            h4 Abacus
+          .col-md-5.mb-4.mb-md-0
+            h4.mt-4 <i>Abacus</i>
 
-            ul.lista-ul
+            ul.lista-ul.mt-5
               li 
-                i.fas.fa-check
-                | Sistema global de reserva Abacus
+                i.fas.fa-check(style="color:#fc4b52")
+                p Sistema global de reserva <i>Abacus</i>
 
-      .py-3.py-md-4(titulo="Travelsky")
-        .row          
-          .col-md-6
+      .py-3.py-md-4(titulo="<i>Travelsky</i>")
+        .row.justify-content-center          
+          .col-md-4
             figure
               img(src='@/assets/curso/temas/tema2/pes4.svg', alt='')
-          .col-md-6.mb-4.mb-md-0
-            h4 Travelsky
+          .col-md-5.mb-4.mb-md-0
+            h4.mt-4 <i>Travelsky</i>
 
-            ul.lista-ul
+            ul.lista-ul.mt-5
               li 
-                i.fas.fa-check
-                | Sistema global de reserva Travelsky
+                i.fas.fa-check(style="color:#fc4b52")
+                p Sistema global de reserva <i>Travelsky</i>
 
-      .py-3.py-md-4(titulo="travel Port")
-        .row          
-          .col-md-6
+      .py-3.py-md-4(titulo="<i>travel Port</i>")
+        .row.justify-content-center          
+          .col-md-4
             figure
               img(src='@/assets/curso/temas/tema2/pes5.svg', alt='')
-          .col-md-6.mb-4.mb-md-0
-            h4 Travel Port
+          .col-md-5.mb-4.mb-md-0
+            h4.mt-4 <i>travel Port</i>
 
-            ul.lista-ul
+            ul.lista-ul.mt-5
               li 
-                i.fas.fa-check
-                | Sistema global de reserva Travel Port
+                i.fas.fa-check(style="color:#fc4b52")
+                p Sistema global de reserva <i>travel Port</i>
 
-      .py-3.py-md-4(titulo="KIU Systems")
-        .row          
-          .col-md-6
+      .py-3.py-md-4(titulo="<i>KIU Systems</i>")
+        .row.justify-content-center          
+          .col-md-4
             figure
               img(src='@/assets/curso/temas/tema2/pes6.svg', alt='')
-          .col-md-6.mb-4.mb-md-0
-            h4 KIU Systems
+          .col-md-5.mb-4.mb-md-0
+            h4.mt-4 <i>KIU Systems</i>
 
-            ul.lista-ul
+            ul.lista-ul.mt-5
               li 
-                i.fas.fa-check
-                | Sistema global de reserva KIU Systems
+                i.fas.fa-check(style="color:#fc4b52")
+                p Sistema global de reserva <i>KIU Systems</i>
 
-      .py-3.py-md-4(titulo="TCA Inssist")
-        .row          
-          .col-md-6
+      .py-3.py-md-4(titulo="<i>TCA Inssist</i>")
+        .row.justify-content-center          
+          .col-md-4
             figure
               img(src='@/assets/curso/temas/tema2/pes7.svg', alt='')
-          .col-md-6.mb-4.mb-md-0
-            h4 TCA Inssist
+          .col-md-5.mb-4.mb-md-0
+            h4.mt-4 <i>TCA Inssist</i>
 
-            ul.lista-ul
+            ul.lista-ul.mt-5
               li 
-                i.fas.fa-check
-                | Sistema global de reserva TCA Inssist
+                i.fas.fa-check(style="color:#fc4b52")
+                p Sistema global de reserva <i>TCA Inssist</i>
 
-      .py-3.py-md-4(titulo="SiteMinder")
-        .row          
-          .col-md-6
+      .py-3.py-md-4(titulo="<i>SiteMinder</i>")
+        .row.justify-content-center         
+          .col-md-4
             figure
               img(src='@/assets/curso/temas/tema2/pes8.svg', alt='')
-          .col-md-6.mb-4.mb-md-0
-            h4 SiteMinder
+          .col-md-5.mb-4.mb-md-0
+            h4.mt-4 <i>SiteMinder</i>
 
-            ul.lista-ul
+            ul.lista-ul.mt-5
               li 
-                i.fas.fa-check
-                | Sistema global de reserva SiteMinder
+                i.fas.fa-check(style="color:#fc4b52")
+                | Sistema global de reserva <i>SiteMinder</i>
 
     Separador
 
@@ -276,7 +276,7 @@
     p Las técnicas de consulta empleadas por las personas en la actualidad se derivan de búsquedas digitales y electrónicas mediante páginas web o las plataformas digitales anteriormente mencionadas, teniendo en cuenta lo que se desee buscar; generalmente hay diversas páginas de internet donde se pueden encontrar datos y referencias turísticas a nivel mundial. Para lo relacionado al turismo, se usan algunas técnicas de consulta que facilitan la búsqueda como, por ejemplo, la técnica IATA, que se muestra a continuación:
 
     .tarjeta.bgr-slider.fondo-tarjeta.p-4.mt-5
-      SlyderA(tipo="b")
+      SlyderA.p-4(tipo="b")
         .row
           .col-md-7.mb-4.mb-md-0
             h4 Código IATA.
@@ -301,7 +301,7 @@
           .col-md-7.mb-4.mb-md-0
             h4 Características
 
-            p Por lo regular los códigos se encuentran conformados por tres letras y en mayúscula que representa el nombre completo de una ciudad o país, adicional a esto la forma de leerlo va acompañada nombres característicos en cada letra deletreada, este código se elabora con el fin abreviar nombres y comunicarse de una manera más técnica a la hora de viajar entre prestadores de servicio. 
+            p Por lo regular los códigos se encuentran conformados por tres letras y en mayúscula que representa el nombre completo de una ciudad o país, adicional a esto la forma de leerlo va acompañada de nombres característicos en cada letra deletreada, este código se elabora con el fin de abreviar nombres y comunicarse de una manera más técnica a la hora de viajar entre prestadores de servicio. 
           .col-md-5
             figure
               img(src='@/assets/curso/temas/tema2/tar3.png', alt='')
@@ -322,7 +322,7 @@
                         img(weight="200" height="200" src='@/assets/curso/temas/tema2/tar4-2.png', alt='')
 
 
-                  p #[i Ejemplo de códigos IATA]
+
 
 </template>
 

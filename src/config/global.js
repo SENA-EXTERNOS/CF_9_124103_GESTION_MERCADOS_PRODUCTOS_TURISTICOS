@@ -111,14 +111,14 @@ export default {
   },
   complementario: [
     {
-      tema: '1. Servicios de viaje ',
+      tema: 'Servicios de viaje ',
       referencia:
         'Paniza Fullana, Antonia(2017) Viajes combinados y servicios de viaje vinculados: replanteamiento de conceptos y sus consecuencias sobre la responsabilidad.torrossa https://www.torrossa.com/it/resources/an/4291823',
       tipo: 'Libro digital',
       link: 'https://www.torrossa.com/it/resources/an/4291823',
     },
     {
-      tema: '2.4 Desarrollo de manuales de operación',
+      tema: 'Desarrollo de manuales de operación',
       referencia:
         'Fundación para la Conservación y el Desarrollo Sostenible (2021) Manual de operación turística para el avistamiento de aves      https://fcds.org.co/wp-content/uploads/2021/02/manual-operacion-turismo.pdf',
       tipo: 'Manual',
@@ -126,7 +126,7 @@ export default {
         'https://fcds.org.co/wp-content/uploads/2021/02/manual-operacion-turismo.pdf',
     },
     {
-      tema: '3. Producto turístico según destino',
+      tema: 'Producto turístico según destino',
       referencia:
         'Humberto Rivas, Académico de la Universidad San Sebastián (diciembre 2016) Elementos para la gestión de Destinos Turísticos https://www.sernatur.cl/wp-content/uploads/2018/11/Manual-de-Destinos-Elementos-para-la-gestio%CC%81n-de-destinos-turisticos-1.pdf',
       tipo: 'Manual',
@@ -134,7 +134,7 @@ export default {
         'https://www.sernatur.cl/wp-content/uploads/2018/11/Manual-de-Destinos-Elementos-para-la-gestio%CC%81n-de-destinos-turisticos-1.pdf',
     },
     {
-      tema: '5.Geografía turística',
+      tema: 'Geografía turística',
       referencia:
         'Olariaga, O. D., & Carvajal, A. F. (2016). Efectos de la liberalización en la geografía del transporte aéreo en Colombia. Cuadernos geográficos de la Universidad de Granada https://dialnet.unirioja.es/servlet/articulo?codigo=5767230',
       tipo: 'Artículo',
